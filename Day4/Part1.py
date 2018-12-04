@@ -20,13 +20,4 @@ input.sort(key=lambda c: c[0])
 data = []
 
 for item in input:
-    if item[1] ==    
-    
-
-for item in input:
     print(item)
-#for line in file1:
-#    sections = line.split()
-#    sections[0] = sections[0] + " " + sections[1]
-#    del sections[1]
-#    print(sections)
